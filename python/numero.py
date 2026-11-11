@@ -1,0 +1,12 @@
+a=input("ingresa tu edad:")
+a=int(a)
+print("el doble de tu edad ",2*a)
+print("=================Bienvenido=================")
+a = input("Ingresa el primer numero:")
+b = input("Ingresa el segundo:")
+a = int (a)
+b = int (a)
+print ("La multiplicacion es:")
+print ("La division es:")
+#Agrega aqui tanbien la suma,la resta y cualquier que quieras
+print ("=======================gracias==================")
